@@ -4,7 +4,7 @@
 
 
 body {
-  color:#37474f;
+  color:rgb(255, 0, 0);
   padding:0;
   margin:0;
   margin-bottom:5rem;
@@ -14,7 +14,7 @@ body {
 }
 
 a{
-  color:rgb(255,200,100)
+  color:#222;
 }
 
 a:hover{
