@@ -1,4 +1,4 @@
-// PRIMERO CREAMOS UNA VARIABLE QUE CONTIENE TODOS LOS DATOS DE TUS TRABAJOS
+
 var trabajos = [
 {
     figure: "media/foto-01.jpg",
@@ -18,12 +18,12 @@ var trabajos = [
     about: "Pulsera que ayuda a monitorear las fiestas masivas y permite que el asistente interactúe con el DJ",
 }, {
     figure: "media/foto-05.jpg",
-    title: "Portada Vinilo",
-    about: "Proyecto de diseño gráfico de la portada de un vinilo del álbum de Carlos Gardel",
-}, {
-    figure: "media/foto-06.jpg",
     title: "Troda",
     about: "Adaptación de silla de ruedas para hacer posible el bajar por escaleras de emergencia sin mayor complicación",
+}, {
+    figure: "media/foto-06.jpg",
+    title: "Portada Vinilo",
+    about: "Proyecto de diseño gráfico de la portada de un vinilo del álbum de Carlos Gardel",
 }, {
     figure: "media/foto-07.jpg",
     title: "Llaveros de presentación",
